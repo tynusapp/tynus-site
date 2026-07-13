@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "DP9PC87S49.app.tynus",
+        "paths": [
+          "/reset-password",
+          "/reset-password/*",
+          "/reset-password?*"
+        ]
+      }
+    ]
+  }
+}
