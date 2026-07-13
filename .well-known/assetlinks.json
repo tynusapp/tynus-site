@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.tynus",
+      "sha256_cert_fingerprints": [
+        "5E:C2:11:EA:D4:86:06:86:34:6E:CA:65:F8:5B:17:8C:3A:AD:6E:27:A6:BB:72:20:4F:93:BA:A6:E2:ED:57:6E"
+      ]
+    }
+  }
+]
